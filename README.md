@@ -19,6 +19,9 @@ Data Visualization
  Churn analysis by plan type
  Churn analysis by contract type
  Interactive filters
+ 
+ ![Customer Churn Analysis Dashboard](Dashboard_Screenshot.png)
+ ## Dashboard Preview
 
 ## Project Objective
 To analyze customer churn and retention patterns
