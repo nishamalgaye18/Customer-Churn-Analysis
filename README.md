@@ -20,9 +20,9 @@ Data Visualization
  Churn analysis by contract type
  Interactive filters
  
- ![Customer Churn Analysis Dashboard](Dashboard_Screenshot.png)
- ## Dashboard Preview
 
+## Dashboard Preview
+![Customer Churn Analysis Dashboard](./Dashboard_Screenshot.png)
 ## Project Objective
 To analyze customer churn and retention patterns
 using an interactive Power BI dashboard.
