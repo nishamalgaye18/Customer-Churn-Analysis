@@ -22,7 +22,10 @@ Data Visualization
  
 
 ## Dashboard Preview
-![Customer Churn Analysis Dashboard](./Dashboard_Screenshot.png)
+![Customer Churn Analysis Dashboard](Dashboard_Screenshot.png)
+
+![Customer Churn Analysis Dashboard](Dashboard_Screenshot.png.png)
+
 ## Project Objective
 To analyze customer churn and retention patterns
 using an interactive Power BI dashboard.
